@@ -1,2 +1,4 @@
 # FAQ-dropdown
-This is dropdown website template which is widely useful for many websites
+This is dropdown website for amazon.
+---
+FAQ are taken from amazon customers services and used as temporary texts.
